@@ -1,0 +1,14 @@
+C:\Users\UNum\source\repos\TILGame\TILGame\bin\Debug\TILGame.exe.config
+C:\Users\UNum\source\repos\TILGame\TILGame\bin\Debug\TILGame.exe
+C:\Users\UNum\source\repos\TILGame\TILGame\bin\Debug\TILGame.pdb
+C:\Users\UNum\source\repos\TILGame\TILGame\obj\Debug\TILGame.csprojResolveAssemblyReference.cache
+C:\Users\UNum\source\repos\TILGame\TILGame\obj\Debug\TILGame.csproj.CoreCompileInputs.cache
+C:\Users\UNum\source\repos\TILGame\TILGame\obj\Debug\TILGame.exe
+C:\Users\UNum\source\repos\TILGame\TILGame\obj\Debug\TILGame.pdb
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\bin\Debug\TILGame.exe.config
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\bin\Debug\TILGame.exe
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\bin\Debug\TILGame.pdb
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\obj\Debug\TILGame.csprojAssemblyReference.cache
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\obj\Debug\TILGame.csproj.CoreCompileInputs.cache
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\obj\Debug\TILGame.exe
+C:\Users\aostr\Desktop\repos\repos\TILGame\TILGame\obj\Debug\TILGame.pdb
